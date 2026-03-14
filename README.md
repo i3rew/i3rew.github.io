@@ -40,7 +40,7 @@ Features include:
 
 Repository:
 
-https://github.com/i3rew/mysite
+<https://github.com/i3rew/mysite>
 
 ---
 
