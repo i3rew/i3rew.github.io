@@ -28,7 +28,7 @@ to solve real-world problems.
 
 A Django-based web application that logs and analyzes QR code scans.
 
-images/qr-code.pdf
+![QR Code Example](images/qr-code.png)
 
 Features include:
 
