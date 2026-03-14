@@ -28,6 +28,8 @@ to solve real-world problems.
 
 A Django-based web application that logs and analyzes QR code scans.
 
+images/qr-code.pdf
+
 Features include:
 
 - Scan logging and analytics
