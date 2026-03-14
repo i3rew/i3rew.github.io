@@ -38,7 +38,7 @@ Features include:
 
 Repository:
 
-https://github.com/i3rew/qrcode-logger
+https://github.com/i3rew/mysite
 
 ---
 
