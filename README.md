@@ -107,8 +107,7 @@ BA in Criminal Justice
 
 Artificial Intelligence  
 Data Science  
-Edge AI Systems  
-Embedded Computing (Raspberry Pi)  
+Edge Computing
 
 ---
 
